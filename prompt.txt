@@ -1,0 +1,14 @@
+Create an HTML file for a homepage of a commercial website that recommends and sells hair loss treatment products. The style should look modern and clean, using TailwindCSS. Include:
+
+1. A full-width hero section with:
+   - A headline like "Regrow Your Confidence"
+   - A subheading that explains the value, like "Personalized hair loss solutions backed by science."
+   - A call-to-action button that says "Take the Quiz" linking to `quiz.html`
+
+2. A section below with 3 key benefits (e.g., Personalized Recommendations, Dermatologist Approved, Fast Shipping) displayed in cards.
+
+3. A placeholder for testimonials with 2 quotes.
+
+4. A simple footer with navigation links: Home, About, Contact, Privacy
+
+Please use proper HTML structure and Tailwind classes. No external libraries except Tailwind. Also include the Tailwind CDN in the `<head>`.
